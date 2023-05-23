@@ -387,8 +387,7 @@ form button {
   position: relative;
   width: 90%;
   height: 40vh;
-  /* left: calc(50% - 2191px/2 + 9.5px); */
-  /* top: 10px; */
+  
   top: -3px;
   left: 38px;
   margin-bottom: 279px;
